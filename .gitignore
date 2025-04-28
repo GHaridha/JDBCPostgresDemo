@@ -1,0 +1,10 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore bin/ folder (compiled classes)
+bin/
+
+# Ignore database configuration file
+dbconfig.properties
